@@ -43,10 +43,4 @@
 
 
 [csie]: <http://csie.ncut.edu.tw>
-[ok]: <http://icons.iconarchive.com/icons/visualpharm/must-have/256/Check-icon.png>
-
-<style>
-img[alt=ok] {
-	height: 16px;
-}
-</style>
+[ok]: <image/check.png>
