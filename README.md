@@ -36,7 +36,7 @@
 - ![ok][] [`B04 路徑問題`](B/B04.java)
 
 > 偉大的春章大大提醒白兒看錯了題目呢！
-> 
+> ![B04-image1][]
 > 白兒已經改正錯誤並發佈已更正的原始碼 :D
 
 - `B05 迴文數目`
@@ -55,3 +55,4 @@
 
 [csie]: <http://csie.ncut.edu.tw>
 [ok]: <image/check.png>
+[B04-image1]: <https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xta1/t31.0-8/11270628_981896475168777_4794761790105783321_o.jpg>
