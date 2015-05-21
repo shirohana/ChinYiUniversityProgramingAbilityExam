@@ -54,7 +54,7 @@
 
 - ![ok][] [`C02 黑暗角落`](C/C02.java)
 - `C03 畢業演奏`
-- `C04 八皇后`
+- ![ok][] [`C04 八皇后`](C/C04.java)
 
 
 [csie]: <http://csie.ncut.edu.tw>
