@@ -19,9 +19,9 @@ class A04 {
 			int trans[] = new int[3];
 
 			int left = input;
-			for (int i = 0; i < quota.length; ++i) {
-				if (input == 50 && i == 0 || input == 20 && i == 1)
-					continue;
+			for (int i = 0; i < currency.length; ++i) {
+                if (i < currency.length && currency[i] == input)
+                    continue;
 
 				int amount = left / currency[i];
 				if (amount > quota[i]) amount = quota[i];
