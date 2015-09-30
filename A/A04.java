@@ -20,8 +20,8 @@ class A04 {
 
 			int left = input;
 			for (int i = 0; i < currency.length; ++i) {
-                if (i < currency.length && currency[i] == input)
-                    continue;
+				if (i < currency.length && currency[i] == input)
+					continue;
 
 				int amount = left / currency[i];
 				if (amount > quota[i]) amount = quota[i];
