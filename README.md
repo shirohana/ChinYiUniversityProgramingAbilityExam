@@ -10,7 +10,7 @@
 ### 簡易題型
 - ![ok][] [`Java`](java/A/A01.java) [`C++`](cpp/A01.cpp) `A01 日數計算`
 - ![ok][] [`Java`](java/A/A02.java) [`C++`](cpp/A02.cpp) `A02 最大公因數、最小公倍數`
-- ![ok][] [`Java`](java/A/A03.java) `A03 質因數分解`
+- ![ok][] [`Java`](java/A/A03.java) [`C++`](cpp/A03.cpp) `A03 質因數分解`
 - ![ok][] [`Java`](java/A/A04.java) `A04 硬幣兌換機`
 - ![ok][] [`Java`](java/A/A05.java) `A05 黃金矩形邊長`
 - ![ok][] [`Java`](java/A/A06.java) `A06 計算寶石價值`
