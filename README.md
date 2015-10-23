@@ -12,7 +12,7 @@
 - ![ok][] [`Java`](java/A/A02.java) [`C++`](cpp/A02.cpp) `A02 最大公因數、最小公倍數`
 - ![ok][] [`Java`](java/A/A03.java) [`C++`](cpp/A03.cpp) `A03 質因數分解`
 - ![ok][] [`Java`](java/A/A04.java) [`C++`](cpp/A04.cpp) `A04 硬幣兌換機`
-- ![ok][] [`Java`](java/A/A05.java) `A05 黃金矩形邊長`
+- ![ok][] [`Java`](java/A/A05.java) [`C++`](cpp/A05.cpp) `A05 黃金矩形邊長`
 - ![ok][] [`Java`](java/A/A06.java) `A06 計算寶石價值`
 - ![ok][] [`Java`](java/A/A07.java) `A07 循環小數`
 - ![ok][] [`Java`](java/A/A08.java) `A08 完美數`
