@@ -27,7 +27,7 @@
 - `B01 直式除法`
 - ![ok][] [`Java`](java/B/B02.java) [`C++`](cpp/B02.cpp) `B02 水仙花數`
 - `B03 漆海報`
-- ![ok][] [`Java`](java/B/B04.java) `B04 路徑問題`
+- ![ok][] [`Java`](java/B/B04.java) [`C++`](cpp/B04.cpp) `B04 路徑問題`
 - ![ok][] [`Java`](java/B/B05.java) `B05 迴文數目`
 - ![ok][] [`Java`](java/B/B06.java) `B06 蜜蜂的約會`
 - `B07 大風吹`
