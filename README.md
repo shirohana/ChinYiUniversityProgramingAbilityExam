@@ -19,7 +19,7 @@
 - ![ok][] [`Java`](java/A/A09.java) [`C++`](cpp/A09.cpp) `A09 終極密碼`
 - ![ok][] [`Java`](java/A/A10.java) [`C++`](cpp/A10.cpp) `A10 搜尋陣列`
 - ![ok][] [`Java`](java/A/A11.java) [`C++`](cpp/A11.cpp) `A11 字元取代`
-- ![ok][] [`Java`](java/A/A12.java) `A12 維迦的家`
+- ![ok][] [`Java`](java/A/A12.java) [`C++`](cpp/A12.cpp) `A12 維迦的家`
 - ![ok][] [`Java`](java/A/A13.java) `A13 9的倍數`
 - ![ok][] [`Java`](java/A/A14.java) `A14 中間數`
 
