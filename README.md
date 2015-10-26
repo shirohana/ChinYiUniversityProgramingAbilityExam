@@ -21,7 +21,7 @@
 - ![ok][] [`Java`](java/A/A11.java) [`C++`](cpp/A11.cpp) `A11 字元取代`
 - ![ok][] [`Java`](java/A/A12.java) [`C++`](cpp/A12.cpp) `A12 維迦的家`
 - ![ok][] [`Java`](java/A/A13.java) [`C++`](cpp/A13.cpp) `A13 9的倍數`
-- ![ok][] [`Java`](java/A/A14.java) `A14 中間數`
+- ![ok][] [`Java`](java/A/A14.java) [`C++`](cpp/A14.cpp) `A14 中間數`
 
 ### 中等題型
 - `B01 直式除法`
