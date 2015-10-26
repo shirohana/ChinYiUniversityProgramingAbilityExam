@@ -25,7 +25,7 @@
 
 ### 中等題型
 - `B01 直式除法`
-- ![ok][] [`Java`](java/B/B02.java) `B02 水仙花數`
+- ![ok][] [`Java`](java/B/B02.java) [`C++`](cpp/B02.cpp) `B02 水仙花數`
 - `B03 漆海報`
 - ![ok][] [`Java`](java/B/B04.java) `B04 路徑問題`
 - ![ok][] [`Java`](java/B/B05.java) `B05 迴文數目`
