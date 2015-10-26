@@ -16,7 +16,7 @@ int main() {
         } else {
             cout << *ptr;
         }
-    } while ((*ptr++) != '\0');
+    } while ((*++ptr) != '\0');
 
     cout << endl;
 
