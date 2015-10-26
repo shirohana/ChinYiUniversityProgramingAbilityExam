@@ -15,7 +15,7 @@
 - ![ok][] [`Java`](java/A/A05.java) [`C++`](cpp/A05.cpp) `A05 黃金矩形邊長`
 - ![ok][] [`Java`](java/A/A06.java) [`C++`](cpp/A06.cpp) `A06 計算寶石價值`
 - ![ok][] [`Java`](java/A/A07.java) `A07 循環小數`
-- ![ok][] [`Java`](java/A/A08.java) `A08 完美數`
+- ![ok][] [`Java`](java/A/A08.java) [`C++`](cpp/A08.cpp) `A08 完美數`
 - ![ok][] [`Java`](java/A/A09.java) `A09 終極密碼`
 - ![ok][] [`Java`](java/A/A10.java) `A10 搜尋陣列`
 - ![ok][] [`Java`](java/A/A11.java) `A11 字元取代`
