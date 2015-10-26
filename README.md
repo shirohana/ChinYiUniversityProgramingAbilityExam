@@ -17,7 +17,7 @@
 - ![ok][] [`Java`](java/A/A07.java) `A07 循環小數`
 - ![ok][] [`Java`](java/A/A08.java) [`C++`](cpp/A08.cpp) `A08 完美數`
 - ![ok][] [`Java`](java/A/A09.java) [`C++`](cpp/A09.cpp) `A09 終極密碼`
-- ![ok][] [`Java`](java/A/A10.java) `A10 搜尋陣列`
+- ![ok][] [`Java`](java/A/A10.java) [`C++`](cpp/A10.cpp) `A10 搜尋陣列`
 - ![ok][] [`Java`](java/A/A11.java) `A11 字元取代`
 - ![ok][] [`Java`](java/A/A12.java) `A12 維迦的家`
 - ![ok][] [`Java`](java/A/A13.java) `A13 9的倍數`
