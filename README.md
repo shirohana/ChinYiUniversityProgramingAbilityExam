@@ -43,6 +43,11 @@
 - `C03 畢業演奏`
 - ![ok][] [`Java`](java/C/C04.java) `C04 八皇后`
 
+--
+
+[`Petje樣的版本`](C/README.md)
 
 [csie]: <http://csie.ncut.edu.tw>
 [ok]: <image/check.png>
+[error]: <image/cross.png>
+[warning]: <image/warning.png>
