@@ -12,14 +12,16 @@ int main(){
 				res+=mdr[i];
 			}
 			res+=d;
-			printf("%d",res);
+			printf("%d\n",res);
+      break; //It can only execute once
 		}
 		else{ //平年
 			for(i=0;i<m-1;i++){
 				res+=md[i];
 			}
 			res+=d;
-			printf("%d",res);
+			printf("%d\n",res);
+      break; //It can only execute once
 		}
 	}
 }
