@@ -31,7 +31,7 @@
 - ![ok][] [`Java`](java/B/B05.java) `B05 迴文數目`
 - ![ok][] [`Java`](java/B/B06.java) `B06 蜜蜂的約會`
 - `B07 大風吹`
-- ![ok][] [`Java`](java/B/B08.java) `B08 河內塔`
+- ![ok][] [`Java`](java/B/B08.java) [`C++`](cpp/B08.cpp) `B08 河內塔`
 - ![ok][] [`Java`](java/B/B09.java) `B09 大數運算`
 - ![ok][] [`Java`](java/B/B10.java) `B10 質數與反質數`
 
