@@ -38,7 +38,7 @@
 > 用質數表的方式快篩，如不足以應付需求g可以自訂質數表上限
 
 ### 較難題型
-- ![ok][] [`Java`](java/C/C01.java) `C01 一到十等於一百`
+- ![ok][] [`Java`](java/C/C01.java) [`C++`](cpp/C01.cpp) `C01 一到十等於一百`
 - ![ok][] [`Java`](java/C/C02.java) `C02 黑暗角落`
 - `C03 畢業演奏`
 - ![ok][] [`Java`](java/C/C04.java) `C04 八皇后`
