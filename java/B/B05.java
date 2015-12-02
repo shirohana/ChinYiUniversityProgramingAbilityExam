@@ -1,6 +1,4 @@
 import java.util.Scanner;
-import java.util.HashMap;
-import java.util.Map;
 
 class B05 {
 
@@ -12,46 +10,39 @@ class B05 {
         while (loops-->0) {
             String input = scanner.nextLine();
 
-            System.out.println(fullSorting(input));
+            System.out.println(findPalindrome(input.toCharArray()));
         }
     }
 
-    private static int fullSorting(String input) {
-        char split[] = input.toCharArray();
-        HashMap<Character, Integer> map = new HashMap<Character, Integer>();
+    private static int findPalindrome(char[] input) {
+        int[] letters = new int[26];
 
-        // Split to HashMap
-        for (char c : split) {
-            int count = map.containsKey(c) ? map.get(c)+1 : 1;
-            map.put(c, count);
+        for (char letter : input) {
+            letters[letter - 'a'] += 1;
         }
 
-        int grade = 0;
-        int single = 0;
-        // check for palindrome
-        for (Map.Entry<Character, Integer> entry : map.entrySet()) {
-            int half = entry.getValue() / 2;
-            if (half == 0) {
-                if (++single > 1) return 0;
-                continue;
+        int total = layer(input.length / 2);
+
+        boolean hasSingle = false;
+        for (int amount : letters) {
+            if (amount == 0) continue;
+
+            if ((amount & 1) == 1) {
+                if (hasSingle) return 0;
+
+                hasSingle = true;
+
+                if (amount == 1) continue;
             }
 
-            map.put(entry.getKey(), half);
-            grade += half;
+            total /= layer(amount / 2);
         }
 
-        long total = exclamation(grade);
-        for (Map.Entry<Character, Integer> entry : map.entrySet()) {
-            total /= exclamation(entry.getValue());
-        }
-
-        return (int) total;
+        return total;
     }
 
-    private static long exclamation(int input) {
-        if (input <= 1)
-            return 1;
-        return input * exclamation(input - 1);
+    private static int layer(int level) {
+        return level == 1 ? 1 : level * layer(level-1);
     }
 
 }
