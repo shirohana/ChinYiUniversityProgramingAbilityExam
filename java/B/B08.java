@@ -29,8 +29,4 @@ class Hanoi {
         System.out.printf("第%d步:移動%d從塔%c到%c\n", times++, layer, towerA, towerC);
         this.printHanoi(layer - 1, towerB, towerA, towerC);
     }
-
-    public void reset() {
-        this.times = 1;
-    }
 }
