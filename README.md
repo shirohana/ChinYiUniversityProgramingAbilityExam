@@ -32,7 +32,7 @@
 - ![ok][] [`Java`](java/B/B06.java) `B06 蜜蜂的約會`
 - `B07 大風吹`
 - ![ok][] [`Java`](java/B/B08.java) [`C++`](cpp/B08.cpp) `B08 河內塔`
-- ![ok][] [`Java`](java/B/B09.java) `B09 大數運算`
+- ![ok][] [`Java`](java/B/B09.java) [`C++`](cpp/B09.cpp) `B09 大數運算`
 - ![ok][] [`Java`](java/B/B10.java) `B10 質數與反質數`
 
 > 用質數表的方式快篩，如不足以應付需求g可以自訂質數表上限
